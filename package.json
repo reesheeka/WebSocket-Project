@@ -1,0 +1,23 @@
+{
+  "name": "websocket-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reesheeka/WebSocket-Project.git"
+  },
+  "author": "Rishika Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reesheeka/WebSocket-Project/issues"
+  },
+  "homepage": "https://github.com/reesheeka/WebSocket-Project#readme",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "ws": "^8.18.0"
+  }
+}
